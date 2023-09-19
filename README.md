@@ -1,4 +1,4 @@
-## Repository ini berisikan hasil segmemntasi customer menggunakan K-Means dari beberapa topik yang ada dibawah ini : 
+## Repository ini berisikan hasil segmentasi customer menggunakan K-Means dari beberapa topik yang ada dibawah ini : 
 
 <ol>
   <li>Segmentasi menggunakan Usia dan Skor Pengeluarana</li>
